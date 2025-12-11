@@ -1,3 +1,32 @@
 [
-    
+    {
+        "nombre": "1",
+        "precio": 10.0,
+        "cantidad": 1
+    },
+    {
+        "nombre": "2",
+        "precio": 10.0,
+        "cantidad": 1
+    },
+    {
+        "nombre": "3",
+        "precio": 10.0,
+        "cantidad": 1
+    },
+    {
+        "nombre": "4",
+        "precio": 10.0,
+        "cantidad": 1
+    },
+    {
+        "nombre": "5",
+        "precio": 10.0,
+        "cantidad": 1
+    },
+    {
+        "nombre": "6",
+        "precio": 10.0,
+        "cantidad": 1
+    }
 ]
