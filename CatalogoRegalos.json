@@ -1,32 +1,37 @@
 [
     {
-        "nombre": "1",
-        "precio": 10.0,
+        "nombre": "Televisión",
+        "precio": 125.0,
         "cantidad": 1
     },
     {
-        "nombre": "2",
-        "precio": 10.0,
+        "nombre": "Bicicleta",
+        "precio": 200.0,
         "cantidad": 1
     },
     {
-        "nombre": "3",
-        "precio": 10.0,
+        "nombre": "Peluche",
+        "precio": 20.0,
+        "cantidad": 4
+    },
+    {
+        "nombre": "Turrón",
+        "precio": 5.0,
+        "cantidad": 3
+    },
+    {
+        "nombre": "jersey",
+        "precio": 2.0,
+        "cantidad": 2
+    },
+    {
+        "nombre": "Consola",
+        "precio": 500.0,
         "cantidad": 1
     },
     {
-        "nombre": "4",
-        "precio": 10.0,
-        "cantidad": 1
-    },
-    {
-        "nombre": "5",
-        "precio": 10.0,
-        "cantidad": 1
-    },
-    {
-        "nombre": "6",
-        "precio": 10.0,
-        "cantidad": 1
+        "nombre": "Expedition 33",
+        "precio": 33.0,
+        "cantidad": 3
     }
 ]
