@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Televisión",
+        "precio": 125.0,
+        "stock": 5
+    },
+    {
+        "nombre": "Consola",
+        "precio": 499.99,
+        "stock": 1
+    },
+    {
+        "nombre": "Bicicleta",
+        "precio": 200.0,
+        "stock": 1
+    },
+    {
+        "nombre": "Turrón",
+        "precio": 5.25,
+        "stock": 90
+    },
+    {
+        "nombre": "Peltone",
+        "precio": 25,
+        "stock": 0
+    },
+    {
+        "nombre": "Jersey",
+        "precio": 15.5,
+        "stock": 20
+    },
+    {
+        "nombre": "Movil",
+        "precio": 230.1,
+        "stock": 3
+    },
+    {
+        "nombre": "Gafas",
+        "precio": 175.0,
+        "stock": 100
+    }
+]
